@@ -10,4 +10,10 @@ I'm a Android Developer, working in Kotlin and Jetpack Compose. Passionate about
 <img align="center" alt="Firebase" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,spring,gradle,idea,mongodb,sqlite,firebase,flask,git,cpp,java,c" />
+  </a>
+</p>
+
 
