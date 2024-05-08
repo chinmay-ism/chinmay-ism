@@ -8,7 +8,7 @@ I'm a Android Developer, working in Kotlin and Jetpack Compose. Passionate about
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,mongodb,sqlite,firebase,git,cpp,java,c" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,android,figma,mongodb,sqlite,firebase,git,cpp,c,python,java" />
   </a>
 </p>
 
